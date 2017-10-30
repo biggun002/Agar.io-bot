@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        AgarBot
+// @name        AgarBotio
 // @namespace   Apos
 // @description Plays Agar
 // @include     http://agar.io/
