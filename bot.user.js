@@ -1482,4 +1482,5 @@
     };
     g.onload = wa
   }
+  // end
 }) (window, jQuery);
